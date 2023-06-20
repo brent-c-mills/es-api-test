@@ -1,0 +1,78 @@
+customers:
+- electricity_usage_kwh: 10200
+  email: ArtyFischel@real.com
+  first_name: Arty
+  id: 088242aa-1805-450a-a4ea-f1f392b330f1
+  last_name: Fischel
+  old_roof: true
+  property_address:
+    city: New York City
+    postal_code: '10001'
+    state_code: NY
+    street: 123 Main Street
+- electricity_usage_kwh: 12700
+  email: james.t.kirk@usn.mil
+  first_name: James
+  id: 088242aa-1805-450a-a4ea-f1f392b330f2
+  last_name: Kirk
+  old_roof: true
+  property_address:
+    city: Riverside
+    postal_code: '52327'
+    state_code: IA
+    street: 123 Main Street
+- electricity_usage_kwh: 106450
+  email: drcharlesx@xavierinstitute.com
+  first_name: Charles
+  id: 088242aa-1805-450a-a4ea-f1f392b330f3
+  last_name: Xavier
+  old_roof: false
+  property_address:
+    city: Salem Center
+    postal_code: '12865'
+    state_code: NY
+    street: 1407 Graymalkin Lane
+- electricity_usage_kwh: 9000
+  email: brent.c.mills@gmail.com
+  first_name: Brent
+  id: 088242aa-1805-450a-a4ea-f1f392b330f4
+  last_name: Mills
+  old_roof: true
+  property_address:
+    city: Overland Park
+    postal_code: 01907
+    state_code: KS
+    street: 13009 Fontana
+- electricity_usage_kwh: 12004
+  email: albert.e.gater@florida.gov
+  first_name: Albert
+  id: 088242aa-1805-450a-a4ea-f1f392b330f5
+  last_name: Gater
+  old_roof: true
+  property_address:
+    city: South Bay
+    postal_code: '33493'
+    state_code: FL
+    street: 123 Gatlorland rd
+- electricity_usage_kwh: 12000
+  email: jjjs@ditto.com
+  first_name: John
+  id: 088242aa-1805-450a-a4ea-f1f392b330f6
+  last_name: Jingleheimer Schmidt
+  old_roof: true
+  property_address:
+    city: Boston
+    postal_code: 02118
+    state_code: MA
+    street: 123 Shouting Way
+- electricity_usage_kwh: 12000
+  email: jjjs_2@ditto.com
+  first_name: John
+  id: 088242aa-1805-450a-a4ea-f1f392b330f7
+  last_name: Jingleheimer Schmidt
+  old_roof: true
+  property_address:
+    city: Boston
+    postal_code: 02118
+    state_code: MA
+    street: 123 Shouting Way
