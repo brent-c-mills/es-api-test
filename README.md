@@ -14,7 +14,7 @@ This API was built and tested using Python, FastAPI, and Uvicorn. It maintains a
 
 # Instantiating the API
 
-Run `python3 uvicorn main:app --reload`
+Run `uvicorn main:app --reload`
 
 # Testing the endpoints
 
