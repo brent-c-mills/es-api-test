@@ -35,6 +35,7 @@ class Customer(BaseModel):
     old_roof: bool
     property_address: PropertyAddress
 
+
 # Define a base model for the UpdateCustomer class. 
 # This is needed since exclude_unset wasn't working as expected in the Patch operation.
 class UpdateCustomer(BaseModel):
